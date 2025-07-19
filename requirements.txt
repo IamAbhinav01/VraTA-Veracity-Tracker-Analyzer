@@ -24,3 +24,4 @@ lxml_html_clean
 beautifulsoup4
 streamlit_theme
 feedparser
+langsmith
