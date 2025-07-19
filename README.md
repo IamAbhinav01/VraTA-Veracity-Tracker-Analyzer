@@ -6,7 +6,7 @@
 ---
 ## Demo Link & Deployement Link
 ### Demo Link : https://drive.google.com/file/d/1UejBC_4fy6TIQqoSuZ3DKYT4rsmsv_yJ/view?usp=sharing
-### Deployed Link : 
+### Deployed Link : https://vratatheveracitytrackerandanalyzer.streamlit.app/
 
 ## 🧠 Problem Statement
 
